@@ -68,5 +68,5 @@ RISC-V 已经被设计去支持大量的定制和专用。基本整型 ISA 能�
 
 
 
-  [1]: /master/image/photo1.jpg
-  [2]: /master/image/photo2.jpg
+  [1]: /image/photo1.jpg
+  [2]: /image/photo2.jpg
